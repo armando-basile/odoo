@@ -1,0 +1,3 @@
+#!/bin/bash
+
+/opt/odoo/odoo17/venv/bin/python3.11 -m debugpy --listen  0.0.0.0:5678 --wait-for-client /opt/odoo/odoo17/odoo-bin -c /etc/odoo.conf
