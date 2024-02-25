@@ -50,3 +50,4 @@ package.json
 /venv/
 log/
 odoo-custom-addons/fea_maintenance
+odoo-custom-addons/maintenance
